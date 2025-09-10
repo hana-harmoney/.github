@@ -3,7 +3,8 @@
 > **시니어의 경험과 시간을 가치로 바꾸는 금융·일자리 플랫폼**  
 > “하나의 경험을 모두의 가치로”
 
-<img width="1720" alt="image" src="https://github.com/user-attachments/assets/fc76ee57-75af-4894-bee3-a66c4b9faed0" />
+<img width="1720" alt="image" src="https://github.com/user-attachments/assets/dfff5813-e509-414f-a513-2fb3ea65e0db" />
+
 
 - `개발 기간` : **2025.08.21 ~ 2025.09.09**
 - `서비스 배포 URL` :  [Hana Harmoney](https://frontend-nine-iota-61.vercel.app/) 
