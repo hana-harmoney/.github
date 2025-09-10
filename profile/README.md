@@ -129,7 +129,6 @@
 ```
 </details>
 
-<br/> 
 
 <details>
 <summary><b>📁 Frontend</b></summary>
